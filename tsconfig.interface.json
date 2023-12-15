@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "NodeNext",
+    "target": "ES2022",
+    "moduleResolution": "NodeNext",
+    "removeComments": false,
+    "alwaysStrict": false,
+    "skipLibCheck": true,
+    "declaration": true
+  },
+  "include": [
+    "interfaces/**/*.ts"
+  ]
+}
